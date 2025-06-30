@@ -21,7 +21,11 @@ public class MsgRestController {
 		int j = 20;
 		int z = 30:
 		int age = 16;
-		int break = 30;
+<<<<<<< HEAD
+		
+=======
+		int kage = 30;
+>>>>>>> 61f8ce534ca27ff196d786b8b290467a257f6ae9
 		return msgService.getWelcomeMsg();
 	}
 	
