@@ -8,6 +8,7 @@ import in.ashokit.service.MsgService;
 
 @RestController
 @RequestMapping("/api")
+@RequestMapping("/network")
 public class MsgRestController {
 	
 	@Autowired
